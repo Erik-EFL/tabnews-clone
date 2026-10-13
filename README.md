@@ -1,2 +1,3 @@
 # tabnews-clone
-implementação do tab https://www.tabnews.com.br/  para aprendizado 
+
+implementação do tab https://www.tabnews.com.br/ para aprendizado
