@@ -1,0 +1,31 @@
+.section {
+  text-align: center;
+  margin: auto;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  flex-direction: column;
+  gap: 10px;
+
+  max-width: 600px;
+  min-height: 100dvh;
+
+  .text__container {
+    padding: 20px;
+    background: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #ccc;
+
+    .h1 {
+      color: blue;
+      margin: auto;
+      width: 50%;
+    }
+
+    .p {
+      color: gray;
+    }
+  }
+}
