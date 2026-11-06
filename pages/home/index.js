@@ -6,9 +6,8 @@ function Home() {
       <div className={styles.text__container}>
         <h1 className={styles.h1}>Bem vindos ao TabGames</h1>
         <p className={styles.p}>
-          Em breve voce tera noticias fresquinhas sobre os novos jogos que estao
+          Em breve você tera noticias fresquinhas sobre os novos jogos que estão
           chegando!
-
           Estamos contruindo algo novo por aqui para voce.
         </p>
       </div>
