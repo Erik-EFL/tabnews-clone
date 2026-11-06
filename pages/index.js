@@ -1,9 +1,11 @@
-function Home() {
+import Home from "./home";
+
+function App() {
   return (
     <>
-      <h1>Hello Next.js</h1>
+      <Home />
     </>
   );
 }
 
-export default Home;
+export default App;
